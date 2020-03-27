@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fusing-wearable-imus-with-multi-view-images/3d-absolute-human-pose-estimation-on-total)](https://paperswithcode.com/sota/3d-absolute-human-pose-estimation-on-total?p=fusing-wearable-imus-with-multi-view-images)
+
+
 # Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach
 
 [Paper](https://TODO),
