@@ -22,7 +22,7 @@
 
 ## Data preparation
 For **TotalCapture** dataset, please download from [official site](https://cvssp.org/projects/totalcapture/TotalCapture/) and follow [zhezh/TotalCapture-Toolbox](https://github.com/zhezh/TotalCapture-Toolbox) to process data.
->  We have **NO** permission to redistribute this dataset. Please do not ask us for a copy.
+>  We have no permission to redistribute this dataset. Please do not ask us for a copy.
 
 For **precalculated pictorial model pairwise** term, please download from [HERE](https://dllabml-my.sharepoint.com/:f:/g/personal/research_dllabml_onmicrosoft_com/EtF51b86YvdEvcwErjkluGsBVbQXeXfMTUNEfc04BsNNDA?e=pMK1s9), and save in `data/pict`.
 
